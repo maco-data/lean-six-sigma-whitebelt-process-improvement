@@ -4,15 +4,11 @@ I created this repository to document my Lean Six Sigma White Belt process impro
 
 ## Project Focus
 
-I will improve a simple intake or request process by reducing incomplete information, rework, delays, or confusion.
+I will improve the fund replenishment process for the company's certified mail service provider.
 
-I am considering process areas such as:
+The provider remotely prints company letters and sends them through certified mail. When funds are needed, the IT Manager must request authorization from the Director of Operations, contact the service provider by phone, and then wait for the funds to become available.
 
-- Project update requests
-- Document or report requests
-- Meeting preparation requests
-- Internal support requests
-- Shared file or folder organization requests
+I want to reduce delays, clarify the approval steps, and make the fund request easier to track so the company can continue sending certified mail without unnecessary interruptions.
 
 ## Problem Statement
 
