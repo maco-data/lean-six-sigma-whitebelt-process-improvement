@@ -1,12 +1,12 @@
 # Lean Six Sigma White Belt Process Improvement Project
 
-This repository documents a beginner-friendly Lean Six Sigma White Belt project focused on improving a small, repeatable process. The purpose is to practice structured problem solving, reduce waste, and build a clear project record from problem discovery through results.
+I created this repository to document my Lean Six Sigma White Belt process improvement project. I am using this project to practice structured problem solving, reduce waste, and build a clear record of my work from problem discovery through results.
 
 ## Project Focus
 
-Improve a simple intake or request process by reducing incomplete information, rework, delays, or confusion.
+I will improve a simple intake or request process by reducing incomplete information, rework, delays, or confusion.
 
-Possible examples include:
+I am considering process areas such as:
 
 - Project update requests
 - Document or report requests
@@ -16,13 +16,13 @@ Possible examples include:
 
 ## Problem Statement
 
-The current process may create delays or rework because requests are sometimes unclear, incomplete, or inconsistent. This project will document the current process, identify common issues, and test a simple improvement such as a request template, checklist, or standardized workflow.
+The current process may create delays or rework because requests are sometimes unclear, incomplete, or inconsistent. I will document the current process, identify common issues, and test a simple improvement such as a request template, checklist, or standardized workflow.
 
 ## Goal
 
-Reduce process friction by making requests easier to submit, review, and complete.
+I want to reduce process friction by making requests easier to submit, review, and complete.
 
-Example measurable goal:
+My example measurable goal is:
 
 > Reduce incomplete requests from 40% to 15% within one month.
 
@@ -30,11 +30,11 @@ Example measurable goal:
 
 White Belt
 
-This project is intentionally scoped for an introductory Lean Six Sigma level. It focuses on observing a process, identifying waste, collecting simple data, and making a small improvement.
+I am intentionally scoping this project for an introductory Lean Six Sigma level. I will focus on observing a process, identifying waste, collecting simple data, and making a small improvement.
 
 ## Method
 
-The project will use basic Lean Six Sigma tools:
+I will use basic Lean Six Sigma tools:
 
 - SIPOC overview
 - Current-state process map
@@ -56,7 +56,7 @@ The project will use basic Lean Six Sigma tools:
 
 ## Success Measures
 
-Potential metrics include:
+I may track metrics such as:
 
 - Percentage of incomplete requests
 - Average time to complete a request
@@ -66,7 +66,7 @@ Potential metrics include:
 
 ## Repository Status
 
-This project is in the planning stage. The next step is to choose the specific process to improve and collect baseline data.
+This project is in the planning stage. My next step is to choose the specific process I want to improve and collect baseline data.
 
 ## Learning Goals
 
