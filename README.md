@@ -4,11 +4,17 @@ I created this repository to document my Lean Six Sigma White Belt process impro
 
 ## Project Focus
 
-I will improve the fund replenishment process for the company's certified mail service provider.
+I will improve the request and approval phase of the fund replenishment process for the company's certified mail service provider.
 
-The provider remotely prints company letters and sends them through certified mail. When funds are needed, the IT Manager must request authorization from the Director of Operations, contact the service provider by phone, and then wait for the funds to become available.
+The certified mail service provider remotely prints company letters and sends them through certified mail. I do not plan to name the provider in this project documentation.
 
-I want to reduce delays, clarify the approval steps, and make the fund request easier to track so the company can continue sending certified mail without unnecessary interruptions.
+Currently, three authorized agents usually notice that funds are depleted only when we try to submit a prepared letter and an insufficient funds banner appears. This issue usually happens bi-weekly. When funds are not available, certified letters cannot be sent, legal notices are delayed, customers are affected, and operations are delayed.
+
+The full replenishment process can be delayed by a minimum of three hours. If the issue happens mid-shift, the delay can extend until the next business day because of the time difference with the provider and their operating hours.
+
+My focus is to improve how letter volume and fund usage are tracked so the team can identify the need for replenishment earlier. I also want to improve how the IT Manager and Director of Operations are notified so approval can happen faster and the IT Manager can contact the provider in time.
+
+To support this improvement, I plan to use a letter tally or log, a low-balance reminder, and a prepaid threshold so the team can request replenishment before the service reaches insufficient funds.
 
 ## Problem Statement
 
