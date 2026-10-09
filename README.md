@@ -18,7 +18,15 @@ To support this improvement, I plan to use a letter tally or log, a low-balance 
 
 ## Problem Statement
 
-The current process may create delays or rework because requests are sometimes unclear, incomplete, or inconsistent. I will document the current process, identify common issues, and test a simple improvement such as a request template, checklist, or standardized workflow.
+The certified mail fund replenishment process creates delays because the team does not have early visibility into the available fund balance. Although we know the cost of each type of letter, we do not always know how much funding has been added or how close the balance is to being depleted.
+
+When funds run out, the issue is usually discovered only after an authorized agent attempts to submit a prepared letter and receives an insufficient funds banner. At that point, the client file is paused while the team moves on to other tasks and waits for the fund replenishment process to be completed.
+
+Based on the last three months of mail activity, the team sends an average of 45 letters per week. Approximately 87.50% are validation letters, including legal notices, sent as Certified Mail with Electronic Return Receipt. The remaining 12.50% are cancellation letters, also known as revoke representation letters, sent as First Class Mail.
+
+There is no single fixed deadline for every letter, but delays can affect the validation process and create uneasiness for customers who may feel that no action is being taken on their accounts. Timely mailing is especially important for legal notices, particularly when a customer may be involved in a lawsuit.
+
+The main problem I am focusing on is the lack of early visibility into fund usage, which can delay certified mail processing and pause affected client files until funds become available again.
 
 ## Goal
 
