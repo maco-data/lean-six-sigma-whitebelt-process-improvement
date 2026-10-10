@@ -30,11 +30,15 @@ The main problem I am focusing on is the lack of early visibility into fund usag
 
 ## Goal
 
-I want to reduce process friction by making requests easier to submit, review, and complete.
+I want to reduce certified mail interruptions caused by insufficient funds by improving how the team identifies low balance, notifies the IT Manager, and requests replenishment before funds are depleted.
 
-My example measurable goal is:
+My goal is to help the team submit replenishment requests at least one business day before funds run out within 30 days of implementing the improvement.
 
-> Reduce incomplete requests from 40% to 15% within one month.
+I want the improvement to focus on prevention by avoiding insufficient funds instead of only reacting after the balance has already been depleted. The process should also support faster approval so the IT Manager can request authorization and replenish the service in time.
+
+The target is to maintain enough prepaid funds to cover at least one week of average mail activity, based on the current average of 45 letters per week.
+
+This goal should benefit customers by helping maintain confidence that their account validation process is moving forward. It should also benefit the authorized agents by helping us complete assigned certified mail tasks without unnecessary pauses.
 
 ## Lean Six Sigma Level
 
