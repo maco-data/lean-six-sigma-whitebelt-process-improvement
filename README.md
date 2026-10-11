@@ -58,15 +58,21 @@ My learning goal is to practice identifying a real process problem, defining the
 
 ## Method
 
-I will use basic Lean Six Sigma tools:
+I will use basic Lean Six Sigma tools to understand the current certified mail fund replenishment process, identify the main causes of delay, and propose a practical improvement.
 
-- SIPOC overview
-- Current-state process map
-- Voice of the Customer
-- 5 Whys root cause analysis
-- Waste identification
-- Basic before-and-after measurement
-- Checklist or template improvement
+First, I will create a SIPOC overview to define the Suppliers, Inputs, Process, Outputs, and Customers involved in the certified mail funding process. This will help me understand who is involved, what information is needed, what steps happen, and who is affected when funds are not available.
+
+I will also prepare a current-state process map in SVG format to show the flow from preparing a letter to discovering insufficient funds, notifying the IT Manager, receiving approval from the Director of Operations, contacting the provider, and waiting for the funds to become available.
+
+For data collection, I will use a Google Sheets spreadsheet to track letter activity and funding issues. The tracking log will include the letter tally, weekly mail count, type of letter, date sent, estimated funds used, insufficient fund incidents, and time delayed.
+
+I will use the 5 Whys root cause analysis method to better understand why the issue happens. This analysis may include causes such as lack of balance visibility, no prepaid threshold, no early alert, or an unclear notification trigger.
+
+I will identify process waste by estimating waiting time, rework, interruptions, delayed customer response, and unnecessary follow-up from the last three months when possible.
+
+The main improvement tool I plan to use is a low-balance reminder connected to a prepaid threshold. This threshold will be supported by the weekly tally or log so the team can request replenishment before funds are depleted.
+
+I will compare the process before and after the improvement. Before the improvement, funds usually run out bi-weekly and can create a minimum three-hour delay. After the improvement, my goal is for replenishment requests to be submitted at least one business day before funds run out, with no client file pauses caused by insufficient funds.
 
 ## Project Deliverables
 
