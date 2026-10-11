@@ -44,7 +44,17 @@ This goal should benefit customers by helping maintain confidence that their acc
 
 White Belt
 
-I am intentionally scoping this project for an introductory Lean Six Sigma level. I will focus on observing a process, identifying waste, collecting simple data, and making a small improvement.
+I am documenting this as a White Belt project because this is my first Lean Six Sigma project and I am focusing on learning the basics of process improvement.
+
+At the White Belt level, I want to show that I understand how to identify waste, delays, process flow issues, basic data collection opportunities, customer impact, and simple improvement ideas.
+
+I observed the negative impact this situation is having on the department, so I am using this project to document the issue, track the process, and recommend improvements. My role is to organize the information clearly and propose the improvement to management.
+
+For this project, I will use basic Lean Six Sigma tools such as process observation, waste identification, basic data collection, a tally or log, and a simple before-and-after comparison.
+
+This project is scoped at the White Belt level, so I am not using advanced statistical analysis. I understand that more advanced analysis may be more appropriate for future Yellow Belt or Green Belt projects if the process needs deeper measurement, variation analysis, or larger-scale improvement.
+
+My learning goal is to practice identifying a real process problem, defining the project scope, collecting simple evidence, and proposing a practical improvement.
 
 ## Method
 
