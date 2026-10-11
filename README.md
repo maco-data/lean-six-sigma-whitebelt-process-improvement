@@ -76,13 +76,15 @@ I will compare the process before and after the improvement. Before the improvem
 
 ## Project Deliverables
 
-- Project charter
-- Current-state process map
-- Root cause analysis
-- Improvement plan
-- Request form or checklist template
-- Before-and-after results summary
-- Lessons learned
+The README will remain the central documentation page for this project. It will summarize the project focus, problem statement, goal, method, deliverables, success measures, and learning goals.
+
+I will create a separate SIPOC file to define the Suppliers, Inputs, Process, Outputs, and Customers involved in the certified mail fund replenishment process.
+
+The current-state process map will be included as `current-state-process-map.svg`. This map will show the current flow from preparing a certified letter to discovering insufficient funds, notifying the IT Manager, receiving approval, contacting the provider, and waiting for funds to become available.
+
+I will create a separate root cause analysis file named `root-cause-analysis.md`, where I will document the 5 Whys analysis and the likely causes of the current delay.
+
+To avoid exposing company data, I will not include real tracking records in this repository. Instead, I will include a sanitized tracking log template at `templates/mail-tracking-log-template.csv`. This template will show the fields I plan to use for tracking letter volume, letter type, estimated fund usage, insufficient fund incidents, and delay time.
 
 ## Success Measures
 
