@@ -88,13 +88,15 @@ To avoid exposing company data, I will not include real tracking records in this
 
 ## Success Measures
 
-I may track metrics such as:
+I will measure the success of this project by tracking whether replenishment requests are submitted at least one business day before funds run out.
 
-- Percentage of incomplete requests
-- Average time to complete a request
-- Number of clarification messages needed
-- Number of rework loops
-- User satisfaction or feedback
+During the 30-day test period after implementing the tracking log and low-balance reminder, I want to reduce insufficient funds incidents from bi-weekly to zero.
+
+I will also track the number of client files paused because funds were unavailable. The goal is to reduce pauses caused by insufficient funds so certified mail tasks can continue without unnecessary interruption.
+
+I will track delay time caused by insufficient funds. The current delay can be a minimum of three hours, and my goal is to reduce this delay to zero hours during the test period.
+
+To support the measurement, I will keep a weekly count of Certified Mail and First Class Mail letters. I will also track notification timing, including the date low balance is identified, the date the IT Manager is notified, and the date approval is requested.
 
 ## Repository Status
 
